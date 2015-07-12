@@ -1,0 +1,389 @@
+{
+  "count": 64,
+  "rows": [
+    {
+      "id": "1",
+      "direccion": "FELISA GALÉ, 6",
+      "lng": "-0.8609328687580884",
+      "lat": "41.663131778490246"
+    },
+    {
+      "id": "2",
+      "direccion": "RÍO MARTÍN, 1",
+      "lng": "-0.8455680902050086",
+      "lat": "41.669613947615986"
+    },
+    {
+      "id": "3",
+      "direccion": "RAMÓN JOSÉ SENDER",
+      "lng": "-0.9190903677890099",
+      "lat": "41.65631025788604"
+    },
+    {
+      "id": "4",
+      "direccion": "MUTUA DE ACCIDENTES (MAZ)",
+      "lng": "-0.8697051462736384",
+      "lat": "41.68549593406277"
+    },
+    {
+      "id": "5",
+      "direccion": "C.E. INOCENCIO JIMÉNEZ",
+      "lng": "-0.9211792915473739",
+      "lat": "41.648835263570795"
+    },
+    {
+      "id": "6",
+      "direccion": "HOSPITAL ROYO VILLANOVA",
+      "lng": "-0.8605830220704597",
+      "lat": "41.692886695703315"
+    },
+    {
+      "id": "7",
+      "direccion": "ANDRÉS VICENTE, 3",
+      "lng": "-0.9144423172476537",
+      "lat": "41.65075024844678"
+    },
+    {
+      "id": "8",
+      "direccion": "ARGUALAS, 8",
+      "lng": "-0.9120121541205795",
+      "lat": "41.625912432809855"
+    },
+    {
+      "id": "9",
+      "direccion": "HERMANO ADOLFO, 2",
+      "lng": "-0.8681506567050683",
+      "lat": "41.64147288054176"
+    },
+    {
+      "id": "10",
+      "direccion": "C.C. GRANCASA (PUERTA PRINCIPAL)",
+      "lng": "-0.8890857149801822",
+      "lat": "41.66896547026293"
+    },
+    {
+      "id": "11",
+      "direccion": "PABLO GARGALLO, 77",
+      "lng": "-0.9005396410021262",
+      "lat": "41.66097133038821"
+    },
+    {
+      "id": "400",
+      "direccion": "INDEPENDENCIA CORTE INGLÉS",
+      "lng": "-0.8818111511208838",
+      "lat": "41.65105122933023"
+    },
+    {
+      "id": "401",
+      "direccion": "ESTACIÓN DELICIAS (AVE)",
+      "lng": "-0.9136405328684967",
+      "lat": "41.65943536148698"
+    },
+    {
+      "id": "402",
+      "direccion": "AEROPUERTO",
+      "lng": "-1.009411234814297",
+      "lat": "41.661643622713434"
+    },
+    {
+      "id": "403",
+      "direccion": "SAN JUAN DE LA PEÑA, 181",
+      "lng": "-0.8711925860311783",
+      "lat": "41.67711885884107"
+    },
+    {
+      "id": "404",
+      "direccion": "SAN VICENTE DE PAÚL, 28",
+      "lng": "-0.8750314438486855",
+      "lat": "41.65314278327253"
+    },
+    {
+      "id": "405",
+      "direccion": "LAS TORRES, 112",
+      "lng": "-0.8853299416399749",
+      "lat": "41.64033328999366"
+    },
+    {
+      "id": "406",
+      "direccion": "AMBULATORIO BALSAS",
+      "lng": "-0.8715086470506228",
+      "lat": "41.669939159021226"
+    },
+    {
+      "id": "407",
+      "direccion": "PUERTO VENECIA (LAGO)",
+      "lng": "-0.8812383919786156",
+      "lat": "41.60891223106638"
+    },
+    {
+      "id": "408",
+      "direccion": "SEMINARIO (AYTO.)",
+      "lng": "-0.9096458722418558",
+      "lat": "41.63506473490434"
+    },
+    {
+      "id": "409",
+      "direccion": "GRAN VÍA, 50",
+      "lng": "-0.8916940397869726",
+      "lat": "41.64458419574493"
+    },
+    {
+      "id": "410",
+      "direccion": "HOSPITAL MIGUEL SERVET (URGENCIAS)",
+      "lng": "-0.8996553632452549",
+      "lat": "41.63363200113599"
+    },
+    {
+      "id": "411",
+      "direccion": "PASEO DE MARÍA AGUSTÍN, 12-14",
+      "lng": "-0.8891806340734631",
+      "lat": "41.650679617360474"
+    },
+    {
+      "id": "412",
+      "direccion": "C.E. GRANDE COVIÁN",
+      "lng": "-0.8581915838352463",
+      "lat": "41.66418263604365"
+    },
+    {
+      "id": "413",
+      "direccion": "INDEPENDENCIA PALAFOX",
+      "lng": "-0.8820090983982394",
+      "lat": "41.65114494270197"
+    },
+    {
+      "id": "414",
+      "direccion": "PASEO DE MARÍA AGUSTÍN, 13",
+      "lng": "-0.889153231136202",
+      "lat": "41.650426664003284"
+    },
+    {
+      "id": "761",
+      "direccion": "ESTACIÓN DELICIAS (AUTOBÚS)",
+      "lng": "-0.9118864467813118",
+      "lat": "41.659693231128486"
+    },
+    {
+      "id": "821",
+      "direccion": "AVENIDA DE AMERICA, 18",
+      "lng": "-0.8854028640888556",
+      "lat": "41.63141438804106"
+    },
+    {
+      "id": "822",
+      "direccion": "ARZOBISPO MORCILLO, 44",
+      "lng": "-0.8921713693077133",
+      "lat": "41.636097634532504"
+    },
+    {
+      "id": "841",
+      "direccion": "RESIDENCIAL PARAÍSO",
+      "lng": "-0.8840986090341281",
+      "lat": "41.6448446356924"
+    },
+    {
+      "id": "842",
+      "direccion": "LEÓN XIII, 17",
+      "lng": "-0.8822095273212077",
+      "lat": "41.64583061869265"
+    },
+    {
+      "id": "843",
+      "direccion": "SALVADOR MINGUIJÓN, 42",
+      "lng": "-0.861253756370673",
+      "lat": "41.64901492004395"
+    },
+    {
+      "id": "961",
+      "direccion": "MORERÍA, 2",
+      "lng": "-0.8838389079164566",
+      "lat": "41.65287267605569"
+    },
+    {
+      "id": "962",
+      "direccion": "PREVIASA",
+      "lng": "-0.8842386445665883",
+      "lat": "41.653790586186005"
+    },
+    {
+      "id": "963",
+      "direccion": "BINGO CICLISTA",
+      "lng": "-0.8866976090475107",
+      "lat": "41.65060154909223"
+    },
+    {
+      "id": "964",
+      "direccion": "GRAN HOTEL",
+      "lng": "-0.8815436685828435",
+      "lat": "41.64911865490005"
+    },
+    {
+      "id": "965",
+      "direccion": "ESTACIÓN DE GOYA",
+      "lng": "-0.8910185779743257",
+      "lat": "41.64369916637808"
+    },
+    {
+      "id": "966",
+      "direccion": "HOTEL BOSTON",
+      "lng": "-0.8762936522798721",
+      "lat": "41.64550175572855"
+    },
+    {
+      "id": "967",
+      "direccion": "SOBRARBE, 33",
+      "lng": "-0.8740503030508763",
+      "lat": "41.659549888265666"
+    },
+    {
+      "id": "969",
+      "direccion": "AVENIDA DE MADRID, 95",
+      "lng": "-0.9002226120027974",
+      "lat": "41.65449541733644"
+    },
+    {
+      "id": "970",
+      "direccion": "PASEO DE CALANDA, 20",
+      "lng": "-0.9042856353488162",
+      "lat": "41.653175767696"
+    },
+    {
+      "id": "971",
+      "direccion": "HOSPITAL CLÍNICO (PUERTA PRINCIPAL)",
+      "lng": "-0.9034003367210381",
+      "lat": "41.64379941239488"
+    },
+    {
+      "id": "972",
+      "direccion": "HOSPITAL CLÍNICO (CONSULTAS)",
+      "lng": "-0.9046303621710531",
+      "lat": "41.642531408369756"
+    },
+    {
+      "id": "973",
+      "direccion": "CONDES DE ARAGÓN, 14",
+      "lng": "-0.9055743383834131",
+      "lat": "41.63885444698948"
+    },
+    {
+      "id": "974",
+      "direccion": "HOSPITAL CLÍNICO (URGENCIAS)",
+      "lng": "-0.9027223652773301",
+      "lat": "41.6428204681126"
+    },
+    {
+      "id": "975",
+      "direccion": "HOSPITAL MIGUEL SERVET (PRINCIPAL)",
+      "lng": "-0.9007803616322139",
+      "lat": "41.63535153647983"
+    },
+    {
+      "id": "976",
+      "direccion": "ESTADIO LA ROMAREDA",
+      "lng": "-0.9003144541678719",
+      "lat": "41.6360201280723"
+    },
+    {
+      "id": "977",
+      "direccion": "HOSPITAL MIGUEL SERVET (CONSULTAS)",
+      "lng": "-0.9019485396031099",
+      "lat": "41.633114776085655"
+    },
+    {
+      "id": "978",
+      "direccion": "TENOR FLETA, 59",
+      "lng": "-0.8791635522026605",
+      "lat": "41.63878770113092"
+    },
+    {
+      "id": "979",
+      "direccion": "SAN ANTONIO DE PADUA, 2",
+      "lng": "-0.8774474045248803",
+      "lat": "41.62575179940048"
+    },
+    {
+      "id": "980",
+      "direccion": "CEMENTERIO",
+      "lng": "-0.8888013266359417",
+      "lat": "41.620540167544966"
+    },
+    {
+      "id": "981",
+      "direccion": "HOSPITAL MILITAR",
+      "lng": "-0.9054041934876566",
+      "lat": "41.63073049887319"
+    },
+    {
+      "id": "982",
+      "direccion": "C.C. ALCAMPO LOS ENLACES",
+      "lng": "-0.9353672697697377",
+      "lat": "41.642950130771574"
+    },
+    {
+      "id": "983",
+      "direccion": "C.C. AUGUSTA",
+      "lng": "-0.9202582818476455",
+      "lat": "41.65951130513874"
+    },
+    {
+      "id": "984",
+      "direccion": "FERIA DE MUESTRAS",
+      "lng": "-0.9822819927987064",
+      "lat": "41.626936723074685"
+    },
+    {
+      "id": "985",
+      "direccion": "PLAZA DE ROMA",
+      "lng": "-0.8990614941316136",
+      "lat": "41.64955947567902"
+    },
+    {
+      "id": "989",
+      "direccion": "PUERTO VENECIA (IKEA)",
+      "lng": "-0.890323464572967",
+      "lat": "41.60876802994014"
+    },
+    {
+      "id": "990",
+      "direccion": "C.C. PLAZA IMPERIAL",
+      "lng": "-0.9872544404550516",
+      "lat": "41.63186042597685"
+    },
+    {
+      "id": "1027",
+      "direccion": "GÓMEZ LAGUNA, 25",
+      "lng": "-0.9096823419697674",
+      "lat": "41.64174665231403"
+    },
+    {
+      "id": "1036",
+      "direccion": "COMPROMISO DE CASPE, 70",
+      "lng": "-0.8623130729142964",
+      "lat": "41.64521402776168"
+    },
+    {
+      "id": "1062",
+      "direccion": "SANTA ISABEL, 86",
+      "lng": "-0.8314752929433089",
+      "lat": "41.66691923993412"
+    },
+    {
+      "id": "1065",
+      "direccion": "CIUDADANO KANE, 21",
+      "lng": "-0.9240667666678907",
+      "lat": "41.62121133009626"
+    },
+    {
+      "id": "1067",
+      "direccion": "CLÍNICA MONTECANAL",
+      "lng": "-0.9486599167000717",
+      "lat": "41.63888888983142"
+    },
+    {
+      "id": "1068",
+      "direccion": "VÍA UNIVERSITAS, 4 (TRÁFICO)",
+      "lng": "-0.9060240273576379",
+      "lat": "41.64372729295473"
+    }
+  ]
+}
