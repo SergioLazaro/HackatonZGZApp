@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" >
+
+    <item android:id="@+id/taxi"
+        android:icon="@drawable/ic_action_maps_local_taxi"
+        android:title="@string/Taxi"
+        app:showAsAction="ifRoom"/>
+
+    <item android:id="@+id/notification"
+        android:icon="@drawable/notification_off"
+        android:title="@string/notification"
+        app:showAsAction="ifRoom"/>
+
+    <item android:id="@+id/info"
+        android:icon="@drawable/ic_info"
+        android:title="@string/Info"
+        app:showAsAction="ifRoom"/>
+
+
+</menu>
