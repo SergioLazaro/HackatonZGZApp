@@ -20,6 +20,8 @@ public class Info extends Activity{
         super.onCreate(savedInstanceState);
         setContentView(R.layout.info);
 
+        View view = this.getWindow().getDecorView();
+        view.setBackgroundColor(0xff000000);
 
         license = (TextView) findViewById(R.id.signup);
         licenseVersion = (TextView) findViewById(R.id.signup);
